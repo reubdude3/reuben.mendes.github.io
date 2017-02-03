@@ -1,8 +1,16 @@
-<!doctype html>
+<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-    <meta charset="utf-8">
-    <title>Basic HTML document</title>
-    </head>
-     <body>hello world</body>
+<head>
+<meta charset="utf-8">
+	<title>hello class</title>
+</head>
+<body>
+<article>these are a few videos i found very helpful with sublime</article>
+<h1> class </h1>
+     <h3>sublime tips and tricks</h3>
+       <a href="https://www.youtube.com/watch?v=EzKS2UhZ76w">sublime tricks</a>
+       <a href="https://www.lynda.com/Sublime-Text-tutorials/Learn-Sublime-Text-3-Basics/513594-2.html">sublime basics</a>
+       <a href="http://www.hongkiat.com/blog/sublime-text-tips/">sublime tips</a>
+</body>
 </html>
